@@ -24,9 +24,9 @@
   "license": "MIT",
   "bugs": "https://github.com/skylarkjs/skylark/issues",
   "dependencies": {
+    "skylark-graphics-brushes": "git+https://github.com/skylark-graphics/skylark-graphics-brushes.git#master",
     "skylark-langx": "git+https://github.com/skylark-langx/skylark-langx.git#master",
-    "skylark-langx-measures": "git+https://github.com/skylark-langx/skylark-langx-measures.git#master",
-    "skylark-graphics-brushes": "git+https://github.com/skylark-graphics/skylark-graphics-brushes.git#master"
+    "skylark-langx-measures": "git+https://github.com/skylark-langx/skylark-langx-measures.git#master"
   },
   "engines": {
     "node": ">=0.8.0"
